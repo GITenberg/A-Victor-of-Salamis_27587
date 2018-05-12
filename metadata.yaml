@@ -1,0 +1,32 @@
+_repo: A-Victor-of-Salamis_27587
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davis, William Stearns
+    alias: Davis, W. S. (William Stearns)
+    birthdate: 1877
+    deathdate: 1930
+    gutenberg_agent_id: '1557'
+    url: http://www.gutenberg.org/2009/agents/1557
+description: ''
+gutenberg_issued: '2008-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27587'
+  lccn: 07015591
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leonidas, King of Sparta, -480 B.C. -- Fiction'
+- !lcsh 'Themistocles, approximately 524 B.C.-approximately 459 B.C. -- Fiction'
+- !lcsh 'Greece -- History -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Xerxes I, King of Persia, 519-465 or 4 B.C. -- Fiction'
+- !lcsh 'Salamis, Battle of, Greece, 480 B.C. -- Fiction'
+title: A Victor of Salamis
+url: http://www.gutenberg.org/ebooks/27587
